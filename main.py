@@ -11,3 +11,5 @@ st.markdown("""
 
 > Amazing Quote
 """)
+
+st.radio("Which dessert is best?", ["Cake", "Ice cream", "Pie"])
